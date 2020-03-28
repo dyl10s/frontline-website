@@ -64,11 +64,19 @@ img{
 
 .footer {
     background-color: black;
-    height: 70px;
     padding-top: 20px;
     color:white;
 }
 
 .footer label{
     color:white;
+}
+
+a label{
+    cursor: pointer;
+}
+
+.navlink:hover{
+    font-weight: bold;
+    cursor: pointer;
 }
